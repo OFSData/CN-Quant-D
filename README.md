@@ -5,6 +5,6 @@ git config --global http.sslVerify false
 ```
 
 ```
-git gc --prune=now
 git fsck
+git gc --prune=now
 ```
