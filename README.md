@@ -3,3 +3,8 @@
 git config --global http.postBuffer 524288000
 git config --global http.sslVerify false 
 ```
+
+```
+git fsck
+git gc --prune=now
+```
